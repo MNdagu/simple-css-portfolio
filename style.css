@@ -1,7 +1,18 @@
-{
+* {
     padding: 0;
     margin: 0;
-    color: #1a0d8a;
+    color: #0d8a17;
     border-style: border-box;
   }
-  
+  header {
+    background-color: rgb(165, 153, 42);
+    padding: 10px 5%;
+  }
+  .landing {
+    height: 50vh;
+    overflow: hidden;
+  }
+  .inner_wrap {
+    position: relative;
+    height: 100%;
+  }
